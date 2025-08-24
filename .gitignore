@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+# Jupyter/Colab
+.ipynb_checkpoints/
+# Data
+/data/results.csv
+/data/*.csv

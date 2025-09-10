@@ -31,8 +31,8 @@ This project performs an offline evaluation of two different system prompts (A v
 ## Setup
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/HarshRajj/intern-2025-q8.git
-   cd intern-2025-q8
+   git clone https://github.com/HarshRajj/08-prompt-evaluation-abtesting.git
+   cd 08-prompt-evaluation-abtesting
    ```
 2. **Install dependencies:**
    ```bash
